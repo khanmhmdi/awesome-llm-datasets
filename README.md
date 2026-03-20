@@ -1,4 +1,4 @@
-# Comprehensive Master Dataset Table for LLM Translation
+# Comprehensive Master Dataset Table for LLM Pretraining, SFT and Post-RL Training
 
 A curated collection of datasets for training and fine-tuning Large Language Models, organized by priority and use case.
 
